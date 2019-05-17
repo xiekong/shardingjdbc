@@ -1,4 +1,4 @@
-# shardingjdbc 写分离实现（中间层Sharding-JDBC）实现
+# 读写分离实现（中间层Sharding-JDBC）实现
    
 ## 引入maven依赖
 ```
